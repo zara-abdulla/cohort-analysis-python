@@ -1,6 +1,8 @@
 # cohort-analysis-python
 This project performs an in-depth cohort analysis to understand customer behavior over time. It calculates retention rates, churn rates, and average revenue per user (ARPU), providing actionable insights into customer loyalty and engagement. Both weekly and monthly cohorts are analyzed to uncover trends in repeat purchases and revenue.
 
+![](/picture/cohort.png)
+
 ## Dataset
 
 The dataset contains e-commerce transactions with the following columns:
